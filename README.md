@@ -23,7 +23,7 @@
 - 线程安全集合（ConcurrentHashMap），JDK 7 / JDK 8 底层原理对比
 - ArrayList 线程不安全分析 & CopyOnWriteArrayList 写时复制原理
 - 线程间通信、等待唤醒机制
-- 等等......
+- ......
 
 ## 核心笔记要点
 
@@ -35,6 +35,7 @@
 - 线程池：核心参数、执行流程、拒绝策略、自定义线程池
 - ConcurrentHashMap：JDK7 分段锁 / JDK8 CAS + synchronized 锁头节点
 - CopyOnWriteArrayList：写时复制、读写分离、弱一致性、无锁读
+- ......
 
 ## 知识点来源
 
